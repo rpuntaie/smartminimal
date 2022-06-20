@@ -1,0 +1,9 @@
+{
+  "name": "smartminimal",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "web3": "^1.7.3",
+    "@truffle/hdwallet-provider": "^2.0.4"
+  }
+}
